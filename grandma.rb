@@ -3,7 +3,7 @@
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-you shout, she can hear you (or at least she thinks so) 
+you shout, she can hear you ( at least she thinks so) 
 # and yells back
 
 # NO, NOT SINCE 1938!
