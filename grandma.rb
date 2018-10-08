@@ -10,7 +10,8 @@ you shout, she can hear you (or at least she thinks so)
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-def speak_to_grandma (string)
-if (string != string.upcase)
-  puts "HUH?! SPEAK UP, SONNY"
+def speak_to_grandma(string)
+  if (string != string.upcase)
+    puts "HUH?! SPEAK UP, SONNY"
+  elsif ()
 
