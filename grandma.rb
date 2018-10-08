@@ -1,4 +1,5 @@
 def speak_to_grandma(greeting)
-  if greeting == greeting.
-    return "HUH?! SPEAK UP, SONNY"
+  if greeting == "I LOVE YOU GRANDMA!"
+    return "I  LOVE YOU TOO PUMPKIN"
+end
 
