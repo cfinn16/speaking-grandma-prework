@@ -13,5 +13,5 @@ you shout, she can hear you (or at least she thinks so)
 def speak_to_grandma(string)
   if (string != string.upcase)
     puts "HUH?! SPEAK UP, SONNY"
-  elsif ()
+end
 
